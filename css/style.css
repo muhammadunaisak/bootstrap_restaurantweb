@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(252, 160, 73);
+}
+.navbar-text {
+    color: azure;
+    font-family: monospace;
+}
+.navlink{
+    color: aliceblue;
+
+}
+#carouselExampleCaptions .carousel-inner .carousel-item img{
+    max-height: fit-content;
+}
+.btn{
+    color: rgb(253, 249, 231);
+    background-color: rgb(71, 71, 69);
+}
+.bg-custom {
+    background-color: rgb(43, 41, 22);
+}
+.custom-h1 {
+    font-family: 'Bungee Spice', cursive;
+    font-weight: 500;
+    color: #1a0e0e;
+    font-size: 380%;
+    padding-top: 4rem;
+}
+
+.custom-p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 21, 21);
+    font-family: 'Catamaran', sans-serif;
+    font-size: 120%;
+    padding-bottom: 1rem;
+}
+
+.str-bs {
+    padding-top: 4rem;
+    text-align: center;
+    font-family: 'Bungee Spice', cursive;
+}
+.str-bs h2 {
+    font-size: 280%;
+}
+.home-el {
+    background-color: rgb(252, 160, 73);
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+.about-section {
+    font-family: 'Bungee Spice', cursive;
+    background-color: rgb(252, 160, 73);
+    padding-top: 3rem;
+}
+.text-center{
+    color: rgb(14, 30, 44);
+}
+.about-section h2 {
+    text-align: center;
+    font-size: 280%;
+}
+.abt-dtl {
+    padding-top: 4rem;
+}
+.pg-abt {
+    font-size: 140%;
+    font-family: 'Catamaran', sans-serif;
+    color: rgb(54, 6, 6);
+    padding-bottom: 6rem;
+}
+.set-img {
+    padding-bottom: 2px;
+}
+.contact-pg {
+    font-family: 'Bungee Spice', cursive;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+.contact-pg h2 {
+    font-size: 280%;
+}
+.lt-footer {
+    font-family: 'Bungee Spice', cursive;
+    padding-top: 2rem;
+    background-color: rgb(240, 109, 34);
+}
